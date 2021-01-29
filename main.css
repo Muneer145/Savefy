@@ -1,0 +1,16 @@
+.background-1{
+    background-color: #1C1B57;
+}
+
+.navbar{
+    background:none;
+    height:0.5rem ;
+}
+
+.mobile .navbar-menu{
+    color:white;
+}
+
+.ml{
+    margin-left:18rem;
+}
