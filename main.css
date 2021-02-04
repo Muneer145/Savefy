@@ -7,10 +7,52 @@
     height:0.5rem ;
 }
 
-.mobile .navbar-menu{
-    color:white;
+
+
+/**cta section*/
+.cta-padding{
+    padding-bottom: 0.1rem;
 }
 
-.ml{
-    margin-left:18rem;
+
+
+.container{
+    justify-content: space-between;
 }
+
+
+/* media queries*/
+
+
+
+/* at desktop*/
+@media screen and (min-width: 1024px) { 
+    .text-white{
+        color:white;
+    }
+
+    .ml{
+        margin-left:18rem;
+    }
+}
+@media screen and (max-width:300px) and (max-width:768px)  {
+
+    .container{
+        text-align: center;
+    }
+}
+
+/*services*/
+.card-centered{
+    justify-content: center;
+}
+ .services-background{
+     background-color: #F9F8FB;
+ }
+ .services-background h3{
+     color: #252467;
+ }
+ 
+ .purple{
+   color:#252467;
+ }
