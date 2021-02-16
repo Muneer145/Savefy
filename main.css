@@ -59,7 +59,47 @@
 
 
  /* start building your financial future*/
+ .ml2{
+     margin-left:8rem;
+ }
 
  .background-2{
      background-color:#EEEDF2;
  }
+
+ .border-left{
+     border-left:1px solid#252467;
+     
+ }
+
+ video{
+     height: 100%;
+     width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+ }
+ .border-left p{
+    margin-left: 39px;
+    color: #252467;
+ }
+ .mlp{
+     margin-left: 39px;
+     color: #252467;
+ }
+
+ .number-line{
+    margin-bottom: -35px;
+    margin-left: -9px;
+}
+ 
+.column h3{
+     margin-bottom: 5px;
+     color: #252467;
+}
+
+ .column h4{
+     color: #252467;
+     margin-bottom:9px;
+     margin-left: 39px;
+ }
+ 
